@@ -1,0 +1,76 @@
+h1 {
+    color:#774ad8;
+    font-size: 70px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+img {
+    width: 20%;
+    height: 40%;
+    position: relative;
+    right: 20%;
+    left: 39.5%;
+}
+.paragraph {
+    background-color: #774ad8;
+    text-align: left;
+    width: 40% ;
+    height:auto;
+    position: relative;
+    left: 30%;
+    border-radius: 10px;
+}
+h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 30px;
+    font-size: 40px;
+}
+.doc1 {
+    position: relative;
+    left: 30px;
+    color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.doc2 {
+    position: relative;
+    left: 50px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.downloadbutton {
+    position: relative;
+    left: 45% ;
+    
+}
+.doc3{
+    position: relative;
+    left: 30px;
+    color:#fff1a3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-left:  5px solid #e9c475;
+    padding-left: 15px;
+}
+#button {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid #f9c927;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#end {
+    position: relative;
+    left: 1.16%;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.5;;
+}
+.highlight {
+    color:rgb(72, 0, 102) ;
+    background-color: #feeeb2;
+    border: 5px solid #feeeb2;
+    border-radius: 5px;
+}
